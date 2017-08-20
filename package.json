@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexandracota/burger.git"
+    "url": "git+https://github.com/alexandracota/burger-sequel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexandracota/burger/issues"
+    "url": "https://github.com/alexandracota/burger-sequel/issues"
   },
-  "homepage": "https://github.com/alexandracota/burger#readme",
+  "homepage": "https://github.com/alexandracota/burger-sequel#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",

@@ -14,10 +14,11 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "m896g7nxgf15pd6f",
-    "password": "cbgw57fqyu4yfcg4",
+    "username": "of6uf2mc5egww28w",
+    "password": "p6jnh7ixse9c1fuq",
     "database": "burgers_db",
-    "host": "mna97msstjnkkp7h.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "t89yihg12rw77y6f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": 3306,
     "dialect": "mysql"
   }
 }

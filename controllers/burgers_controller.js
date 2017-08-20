@@ -4,12 +4,6 @@ var express = require('express');
 var router = express.Router();
 var db = require("../models");
 
-//Sequelize connection from db
-var sequelizeConnection = db.sequelize;
-
-//Sync tables
-sequelizeConnection.sync();
-
 //Routes
 //-----------------------------------------------------------
 
