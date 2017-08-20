@@ -1,0 +1,12 @@
+DROP DATABASE IF EXISTS burger_sequel;
+CREATE DATABASE burger_sequel;
+USE burger_sequel;
+
+
+CREATE TABLE sequel_table (
+	id INT NOT NULL AUTO_INCREMENT,
+	burger_name VARCHAR(45) NOT NULL,
+	devoured BOOLEAN NOT NULL DEFAULT 0,
+	date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+	PRIMARY KEY(id)
+);

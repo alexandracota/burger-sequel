@@ -1,0 +1,25 @@
+.container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#burger-img {
+	height: 300px;
+}
+
+h1 {
+	color: red;
+	font-family: 'Architects Daughter', cursive;
+}
+
+h2 {
+	font-family: 'Architects Daughter', cursive;
+}
+
+.devour-btn {
+	margin-top: 50px;
+}
+
+button {
+	font-family: 'Architects Daughter', cursive;
+}
